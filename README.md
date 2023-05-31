@@ -21,7 +21,7 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=sayyedulawwab&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sayyedulawwab&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyedulawwab&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=hack,c,c%2B%2B,php)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayyedulawwab&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=hack,c,c%2B%2B,php)
 
 <!--
 **sayyedulawwab/sayyedulawwab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
