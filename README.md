@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Muhammad Sayyedul Awwab
 
-- 🌱 I’m currently learning **ASP.NET Core** and **Angular**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 ## Socials
 
