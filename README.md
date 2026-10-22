@@ -1,37 +1,28 @@
-# Hi there 👋 I'm Muhammad Sayyedul Awwab
+# Muhammad Sayyedul Awwab
 
-## Socials
+**Backend Software Engineer** · .NET Core · Dhaka, Bangladesh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayyedulawwab) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sayyedulawwab) 
+I build backend systems: the APIs, the data models, and the business rules underneath them. I am working toward software architecture and technical leadership, designing systems that stay reliable and maintainable as they grow.
 
-## Tech Stack
+[![Website](https://img.shields.io/badge/Website-sayyedulawwab.com-1f2937)](https://sayyedulawwab.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyedulawwab/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sayyedulawwab) [![Email](https://img.shields.io/badge/Email-sayyedulawwab%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sayyedulawwab@gmail.com)
 
-### Languages:
+## What I work on
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- **Now:** Senior Programmer at Epyllion Group, building an HRMS and enterprise business platform from the ground up in .NET Core with Clean Architecture, CQRS and DDD. I designed its approval engine (multi-step, parallel and dependency-based approvals), its role-based access control and hierarchy-based data permissions, and an Outbox-based notification system for email and in-app messages.
+- **Before:** .NET Core microservices for a UK e-commerce platform of 30+ services at Echologyx, and legacy modernisation to .NET Core Web APIs plus payment flows at Bdjobs.
 
-### Frameworks, Platforms & Libraries:
+## Featured projects
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+- **[E-commerce Microservices](https://github.com/sayyedulawwab/EcommerceMicroservices)**: Catalog, Identity, Ordering, Cart and a simulated Payment service behind a YARP gateway. Placing an order runs as an event-driven flow over RabbitMQ and MassTransit, with a transactional outbox so events are not lost.
+- **[Real-time Chat Service](https://github.com/sayyedulawwab/ChatService)**: one-to-one and group messaging over WebSockets with SignalR, using Clean Architecture and CQRS over SQL Server, MongoDB and Redis.
 
-### GitHub Stats :
+## Writing
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=sayyedulawwab&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+I write about .NET Core, software architecture and databases at [sayyedulawwab.com/blog](https://sayyedulawwab.com/blog/) and on [Medium](https://medium.com/@sayyedulawwab).
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sayyedulawwab&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayyedulawwab&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=php,html,css)
+## Toolbox
 
-<!--
-**sayyedulawwab/sayyedulawwab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend & architecture:** C#, .NET Core, REST APIs, Clean Architecture, Vertical Slice Architecture, CQRS, DDD, Modular Monolith, xUnit
+- **Data:** SQL Server, PostgreSQL, EF Core, Dapper, MongoDB, Redis
+- **Distributed systems:** Microservices, RabbitMQ, MassTransit, NServiceBus, API gateways (YARP, Ocelot)
+- **Delivery & observability:** Azure DevOps CI/CD, Docker, OpenTelemetry, Grafana, Prometheus, Loki, Tempo
