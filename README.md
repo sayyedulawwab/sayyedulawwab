@@ -13,6 +13,7 @@ I build backend systems: the APIs, the data models, and the business rules under
 
 ## Featured projects
 
+- **[E-commerce API](https://github.com/sayyedulawwab/EcommerceApp)**: a .NET Clean Architecture API with EF Core and Dapper over PostgreSQL, Redis caching, JWT auth with rotating refresh tokens, Testcontainers tests and blue-green deploys from Azure DevOps. A 12-part article series shows how it is built.
 - **[E-commerce Microservices](https://github.com/sayyedulawwab/EcommerceMicroservices)**: Catalog, Identity, Ordering, Cart and a simulated Payment service behind a YARP gateway. Placing an order runs as an event-driven flow over RabbitMQ and MassTransit, with a transactional outbox so events are not lost.
 - **[Real-time Chat Service](https://github.com/sayyedulawwab/ChatService)**: one-to-one and group messaging over WebSockets with SignalR, using Clean Architecture and CQRS over SQL Server, MongoDB and Redis.
 
