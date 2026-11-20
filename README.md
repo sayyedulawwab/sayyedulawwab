@@ -9,7 +9,7 @@ I build backend systems: the APIs, the data models, and the business rules under
 ## What I work on
 
 - **Now:** Senior Programmer at Epyllion Group, building an HRMS and enterprise business platform from the ground up in .NET Core with Clean Architecture, CQRS and DDD. I designed its approval engine (multi-step, parallel and dependency-based approvals), its role-based access control and hierarchy-based data permissions, and an Outbox-based notification system for email and in-app messages, and moved its API's delivery from IIS on Windows Server to Docker on Ubuntu with Azure DevOps YAML pipelines.
-- **Before:** .NET Core microservices for a UK e-commerce platform of 30+ services at Echologyx, and legacy modernisation to .NET Core Web APIs plus payment flows at Bdjobs.
+- **Before:** .NET Core microservices for a UK e-commerce platform of 30+ services at Echologyx Ltd. UK, and legacy modernisation to .NET Core Web APIs plus payment flows at Bdjobs.com Ltd.
 
 ## Featured projects
 
